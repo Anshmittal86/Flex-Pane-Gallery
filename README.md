@@ -7,7 +7,7 @@ This is the preview of site. 👇👇👇👇👇👇
 
 
 
-# CSS Variables
+# Flex Panle Gallery
 
 "This is a gallery showcasing a collection of diverse photos. You can click on any photo to automatically increase its width, allowing for a more detailed view."
 
